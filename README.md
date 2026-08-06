@@ -1,0 +1,2 @@
+# freesoftware
+a collection of "absolutely legal" scripts to get your software that you "legally got" working

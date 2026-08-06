@@ -1,4 +1,5 @@
 **tested only on v5.0.3**
+
 0. close charles
 1. go into the install directory (for me `C:\Program Files (x86)\Charles`)
 2. open the `lib` folder

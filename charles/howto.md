@@ -6,3 +6,5 @@
 5. open the `charles/com/charlesproxy` folder
 6. replace `myLN.class` with the one from this repository
 7. enjoy no 5 second banner
+---
+if youre paranoid you can use [recaf](https://github.com/Col-E/Recaf) to check what has been changed

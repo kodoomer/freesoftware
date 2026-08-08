@@ -20,3 +20,7 @@ NOP
 NOP
 RET
 ```
+---
+**to undo**
+
+repeat, but replace `b0 01 90 90 90 90 c3` with `8a 05 9e f8 18 00 c3`

@@ -9,3 +9,7 @@
 6. enjoy no banner
 ---
 if youre paranoid you can use [recaf](https://github.com/Col-E/Recaf) to check what has been changed
+
+---
+**to undo**
+delete `charles.jar`

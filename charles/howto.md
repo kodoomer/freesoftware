@@ -1,5 +1,7 @@
 **tested only on v5.0.3**
 
+will work if the sha-256 hash of `myLN.class` is `65dd743efc9f638c562aa29bb3ba5202e98509426abc4e1c13f812a8a030cb1f`
+
 0. close charles
 1. go into the install directory (`C:\Program Files (x86)\Charles`)
 2. go into `lib`

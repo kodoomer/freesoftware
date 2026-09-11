@@ -10,7 +10,7 @@ will work if the sha-256 hash of `myLN.class` is `65dd743efc9f638c562aa29bb3ba52
 5. replace `myLN.class` with the one from the archive
 6. enjoy no banner
 ---
-if youre paranoid you can use [recaf](https://github.com/Col-E/Recaf) to check what has been changed
+if youre worried about safety you can use [recaf](https://github.com/Col-E/Recaf) to check what has been changed
 
 ---
 **to undo**

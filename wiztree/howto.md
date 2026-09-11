@@ -34,4 +34,6 @@ JMP 00ba24a3
 ---
 **to undo**
 
-repeat, but replace `b0 01 90 90 90 90 c3` with `8a 05 9e f8 18 00 c3`
+repeat, but
+1. replace `90 90 90 90 90 90` with `0f 84 4a 08 00 00`
+2. replace `1b 00 01 eb 18` with `1b 00 01 74 18`

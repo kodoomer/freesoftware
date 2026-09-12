@@ -11,3 +11,4 @@ currently in the works:
 * vmware workstation
 * internet download manager
 * jetbrains rider / inteliji idea / pycharm
+* hwmonitor pro

@@ -1,4 +1,4 @@
-**tested only on v5.0.3**
+**tested only on [v5.0.3](https://web.archive.org/web/20251206122215/https://www.charlesproxy.com/assets/release/5.0.3/charles-proxy-5.0.3-win-x86_64.msi)**
 
 will work if the sha-256 hash of `myLN.class` is `65dd743efc9f638c562aa29bb3ba5202e98509426abc4e1c13f812a8a030cb1f`
 
